@@ -376,6 +376,8 @@
       "settings": {
         "image": "shopify://shop_images/IMG_5786.jpg",
         "image_2": "shopify://shop_images/IMG_5787.jpg",
+        "image_3": "shopify://shop_images/IMG_5787.jpg",
+        "image_4": "shopify://shop_images/30PCS-BundleMockup_15fb482d-a2ac-4a0e-9eeb-9f1f2fc62105.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
