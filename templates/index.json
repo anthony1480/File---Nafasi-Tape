@@ -306,7 +306,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop Now",
-            "button_link": "shopify://products/nafasi-tape",
+            "button_link": "shopify://products/vital-health-nose-strip",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -362,7 +362,7 @@
           "type": "button",
           "settings": {
             "button_label": "Remove My Flu",
-            "button_link": "shopify://products/nafasi-tape",
+            "button_link": "shopify://products/vital-health-nose-strip",
             "button_size": "medium",
             "button_style_secondary": false
           }
@@ -492,6 +492,7 @@
         "image-3": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5787_cf4e06e5-28cd-4f69-b1a3-9496990f6d04.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -504,9 +505,10 @@
         "image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/IMG_5787.jpg",
             "image_position": "center center",
             "subheading": "",
-            "subheading_size": "h4",
+            "subheading_size": "h5",
             "heading": "",
             "heading_size": "h3",
             "link": "",
