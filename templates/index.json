@@ -268,7 +268,7 @@
         "button.product-form__submit.button.button--full-width {animation: shake-animation 4.72s ease infinite; transform-origin: 50% 50%;}"
       ],
       "settings": {
-        "product": "nafasi-tape",
+        "product": "vital-health-nose-strip",
         "layout": "media_first",
         "full_width": false,
         "show_divider": false,
@@ -318,6 +318,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/IMG_5786_6d793450-2f1b-4798-9184-d0543be0b33d.jpg",
         "image_position": "center center",
         "text_box_position": "flex-end",
         "text_alignment": "left",
