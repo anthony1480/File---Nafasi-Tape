@@ -15,7 +15,8 @@
         "slide-0": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5787.jpg",
+            "image": "shopify://shop_images/IMG_4456.png",
+            "image_mobile": "shopify://shop_images/IMG_4456.png",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
@@ -318,7 +319,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_5786_6d793450-2f1b-4798-9184-d0543be0b33d.jpg",
+        "image": "shopify://shop_images/B062_0221YK_Sub_03.00_00_27_27.Still002.jpg",
         "image_position": "center center",
         "text_box_position": "flex-end",
         "text_alignment": "left",
@@ -374,10 +375,10 @@
         "button_eRcdn6"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_5786.jpg",
-        "image_2": "shopify://shop_images/IMG_5787.jpg",
-        "image_3": "shopify://shop_images/IMG_5787.jpg",
-        "image_4": "shopify://shop_images/30PCS-BundleMockup_15fb482d-a2ac-4a0e-9eeb-9f1f2fc62105.jpg",
+        "image": "shopify://shop_images/IMG_4456.png",
+        "image_2": "shopify://shop_images/IMG_5786_6d793450-2f1b-4798-9184-d0543be0b33d.jpg",
+        "image_3": "shopify://shop_images/Sequence_01.00_00_15_00.Still003.jpg",
+        "image_4": "shopify://shop_images/Sequence_01.00_00_11_09.Still004.jpg",
         "image_ratio": "portrait",
         "image_position": "center center",
         "layout": "image_first",
@@ -400,42 +401,15 @@
             "text": "<p>This is the best thing i have ever bought, i just love it.</p>",
             "author": "Layal. K"
           }
-        },
-        "testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Wow, sar menkhare byes7ab baher</p>",
-            "author": "Ali. T"
-          }
-        },
-        "testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Ouf men wa2et ma jebta w nashat levels on the roof</p>",
-            "author": "Elias . D"
-          }
-        },
-        "testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "icon": "5",
-            "text": "<p>Tlo3na sarlna 20 sene ma mnetnafas mazbout</p>",
-            "author": "Charbel .M"
-          }
         }
       },
       "block_order": [
-        "testimonial-0",
-        "testimonial-1",
-        "testimonial-2",
-        "testimonial-3"
+        "testimonial-0"
       ],
       "settings": {
         "autorotate": false,
         "autorotate_speed": 5,
-        "hide_images": false,
+        "hide_images": true,
         "show_divider": false,
         "heading": "Testimonials",
         "heading_size": "h1",
@@ -494,33 +468,7 @@
         "image-3": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/IMG_5787_cf4e06e5-28cd-4f69-b1a3-9496990f6d04.jpg",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_5787.jpg",
-            "image_position": "center center",
-            "subheading": "",
-            "subheading_size": "h5",
-            "heading": "",
-            "heading_size": "h3",
-            "link": "",
-            "text_box_position": "middle-center"
-          }
-        },
-        "image-4": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/IMG_5786.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-06-28_at_10.13.02_PM.jpg",
             "image_position": "center center",
             "subheading": "",
             "subheading_size": "h5",
@@ -532,9 +480,7 @@
         }
       },
       "block_order": [
-        "image-3",
-        "image-1",
-        "image-4"
+        "image-3"
       ],
       "settings": {
         "per_row": 5,
@@ -549,7 +495,7 @@
         "heading_tag": "h2",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "mobile_image_height": 160,
+        "mobile_image_height": 390,
         "padding_top": 0,
         "padding_bottom": 0
       }
